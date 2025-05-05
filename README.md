@@ -10,6 +10,3 @@
 
 #### Resume
 📄 [Download My Resume](https://github.com/ryanjamesmilia/ryanjamesmilia/raw/main/resume.pdf)
-
-#### Portfolio
-🌐 [ryanjamesmilia.github.io](https://ryanjamesmilia.github.io)
