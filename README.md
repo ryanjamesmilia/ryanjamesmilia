@@ -7,5 +7,5 @@
 - 🎓 Diploma in Forest and Natural Areas Management: British Columbia Institute of Technology (2022)
 
 #### Resume
-- 📄 [Resume](https://github.com/ryanjamesmilia/ryanjamesmilia/raw/main/resume.pdf)
-- 🌐 [Website](https://ryanjamesmilia.github.io)
+- 🌐 [Visit My Website](https://ryanjamesmilia.github.io)
+- 📄 [Download My Resume](https://github.com/ryanjamesmilia/ryanjamesmilia/raw/main/resume.pdf)
