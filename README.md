@@ -8,4 +8,4 @@
 
 #### Resume
 - 🌐 [Visit My Website](https://ryanjamesmilia.github.io)
-- 📄 [Download My Resume](https://github.com/ryanjamesmilia/ryanjamesmilia/raw/main/resume.pdf)
+- 📄 [Download My Resume](https://github.com/ryanjamesmilia/ryanjamesmilia.github.io/tree/main/assets/resume.pdf)
